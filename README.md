@@ -3,8 +3,8 @@
 
 ## Установка
 
-1. Клонировать репозиторий на свой компьютер:
-    git clone https://github.com/your_username/hh_parser.git
+1. Клонировать репозиторий на свой компьютер с помощью команды
+    git clone 
 
 2. Установить необходимые зависимости:
     pip install -r requirements.txt
